@@ -1,0 +1,25 @@
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and tooling
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.idea/
+.vscode/
+
+# Logs and OS cruft
+*.log
+.DS_Store
+
+# Local assets that should remain outside version control
+pdfs/
+models/
+audio/

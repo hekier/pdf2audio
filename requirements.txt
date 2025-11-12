@@ -1,0 +1,21 @@
+# PDF Processing
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+
+# Text-to-Speech
+piper-tts>=1.2.0
+numpy>=1.24.0
+
+# Audio Processing and Metadata
+mutagen>=1.47.0
+
+# CLI and Progress Display
+rich>=13.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Note: ffmpeg is required as a system binary
+# Install on Ubuntu/Debian: sudo apt-get install ffmpeg
+# Install on macOS: brew install ffmpeg
+# Install on Windows: Download from https://ffmpeg.org/download.html
